@@ -1,0 +1,31 @@
+
+header{
+    text-align: center;
+    color:white;
+}
+.container{
+    background-color:darkgrey;
+    
+}
+
+body{
+    background-image: url("imagenes/equipos.jpg");
+}
+
+table, th, td {
+    border:1px solid black;
+  }
+
+  td[colspan="3"] {
+    text-align: center;
+}
+#tablacabecera{
+    text-align: center;
+}
+#imagenjames{
+    text-align: center;
+}
+
+#tabla1,#tabla2{
+    text-align: center important!;
+}
